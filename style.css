@@ -1,0 +1,116 @@
+* {
+    background-color: rgb(240, 219, 222);
+}
+.navigationbar{
+    background-color:#FFFFFF;
+    height: 600px;
+    margin-left: 10px;
+    width: 45px;
+    
+}
+
+.imglarge {
+    background-color: #FFFFFF;
+    width: 350px;
+    margin-left: 52px;
+    height: 655px;
+    margin-top: -610px;
+    box-shadow: 0px 50px 60px rgb(48, 48, 48); 
+}
+
+.imglarge>img {
+    width: 350px;
+    height: 655px;
+}
+
+div {
+    height: 600px;
+    background-color: #ffffff;
+    margin-left: 400px;
+    width: 560px;
+    box-shadow: 0px 0px 1px gray;
+}
+
+.paragraph {
+    line-height: 0.60cm;
+    color: darkgray;
+    font-size: 12pt;
+    height: 200px;
+    width: 511px;
+    background-color: #FFFFFF;
+    margin-left: 36px;
+    margin-top: -625px;
+}
+
+.services {
+    color: black;
+    background-color: #FFFFFF;
+    font-size: 35px;
+    font-weight: bold;
+    height: 70px;
+    width: 511px;
+    margin-top: 65px;
+    margin-left: 36px;
+}
+
+img.image1 {
+    height: 30px;
+    background-color: #FFFFFF;
+    margin-left: 36px;
+}
+
+img.image2 {
+    height: 30px;
+    background-color: #FFFFFF;
+    margin-left: 227px;
+}
+
+.heading1 {
+    background-color: #ffffff;
+    color: black;
+    height: 125px;
+    width: 225px;
+    margin-top: 15px;
+    margin-left: 36px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.heading1>span.container1 {
+    background-color: #ffffff;
+    color: darkgray;
+    font-size: 11pt;
+    font-weight: lighter;
+    line-height: 0.60cm;
+}
+
+.heading2 {
+    background-color: #ffffff;
+    color: black;
+    height: 125px;
+    width: 225px;
+    margin-top: -125px;
+    margin-left: 300px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.heading2>span.container2 {
+    background-color: #ffffff;
+    color: darkgray;
+    font-size: 11pt;
+    font-weight: lighter;
+    line-height: 0.60cm;
+}
+
+img.image3 {
+    height: 30px;
+    background-color: #FFFFFF;
+    margin-left: 36px;
+}
+
+img.image4 {
+    height: 30px;
+    background-color: #FFFFFF;
+    margin-left: 230px;
+}
